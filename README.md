@@ -1,5 +1,5 @@
  1) nlp_1.py
- dataset link :: https://github.com/GeorgeMcIntire/fake_real_news_dataset
+ dataset :: fake_or_real_news.rar  
  spyder saved corpus :: corpus_1.spydata
 ############################################################
 2) nlp_2.py
